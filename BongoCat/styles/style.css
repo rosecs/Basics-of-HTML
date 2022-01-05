@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#buttons {
+    color: white;
+    font-weight: 100;
+    font-size: 9px;
+    font-family:'Times New Roman', Times, serif;
+    display: inline-block;
+}
+button {
+    width: 40px;
+    height: 40px;
+    background-color: rgb(59, 59, 59);
+    color: white;
+    text-align: left;
+}
+
+.button-double button {
+    width: 140px;
+    height: 40px;
+}
